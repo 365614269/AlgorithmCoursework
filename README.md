@@ -1,7 +1,7 @@
 # AlgorithmCoursework
 The UCL first year COMP0005 Algorithm Coursework.
 
-This piece of work was finally awarded 48/100. x(
+This piece of work was finally awarded 48/100. My heart feels so cold.... x(
 
  - Mommy what does hyper mean
  - The teacher says I'll never read
